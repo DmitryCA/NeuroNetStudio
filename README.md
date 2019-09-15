@@ -1,6 +1,6 @@
 # Neuro Net Studio
 
-![N|Solid](https://neuronetstudio.org/static/GitHub/Social%20preview.png)
+![Neuro Net Studio](https://neuronetstudio.org/static/GitHub/Social%20preview.png)
 
 Neuro Net Studio is free software for creating, editing and training neural nets.
 
