@@ -17,6 +17,10 @@ Windows x64:
 
 See [license NNS.md](https://github.com/DmitryCA/NeuroNetStudio/blob/master/licence%20NNS.md)
 
-## WebSite:
+## WebSite
 
 https://neuronetstudio.org
+
+## Donate
+
+[Donate, please.](https://neuronetstudio.org/donate)
